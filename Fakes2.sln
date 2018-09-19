@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakes2", "Fakes2\Fakes2.csproj", "{F4E04B54-4C3E-4720-A2E1-57E65010A935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorControlTest", "DoorControlTest\DoorControlTest.csproj", "{25932B12-AB13-46C7-91F9-36CBA94A1005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E04B54-4C3E-4720-A2E1-57E65010A935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E04B54-4C3E-4720-A2E1-57E65010A935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E04B54-4C3E-4720-A2E1-57E65010A935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E04B54-4C3E-4720-A2E1-57E65010A935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25932B12-AB13-46C7-91F9-36CBA94A1005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25932B12-AB13-46C7-91F9-36CBA94A1005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25932B12-AB13-46C7-91F9-36CBA94A1005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25932B12-AB13-46C7-91F9-36CBA94A1005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF0BF901-19B2-4E23-970D-BB9534B8B4A0}
+	EndGlobalSection
+EndGlobal
